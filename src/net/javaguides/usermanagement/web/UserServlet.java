@@ -18,7 +18,6 @@ import net.javaguides.usermanagement.model.User;
  * ControllerServlet.java
  * This servlet acts as a page controller for the application, handling all
  * requests from the user.
- * @email Ramesh Fadatare
  */
 
 @WebServlet("/")
